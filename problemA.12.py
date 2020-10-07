@@ -1,0 +1,6 @@
+a=int(input("dati numarul de oua de la prima gaina intr-o zi"))
+b=int(input("dati numarul de oua de la a douaa gaina intr-o zi"))
+c=int(input("dati numarul de oua de la a treia gaina intr-o zi"))
+d=int(input("dati numarul de oua de la a patra gaina intr-o zi"))
+s=(a*7)+(b*7)+(c*7)+(d*7)
+print("la sfirsitul saptaminii sunt ",s,"oua")
